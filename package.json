@@ -1,0 +1,32 @@
+{
+  "name": "esday-demo-node",
+  "version": "0.5.0",
+  "description": "Minimal demo for using the esday library in a simple node script",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BePo65/esday-demo-node.git"
+  },
+  "keywords": [
+    "esday",
+    "demo",
+    "date",
+    "time",
+    "immutable",
+    "moment",
+    "dayjs",
+    "format",
+    "node"
+  ],
+  "author": "BePo65",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BePo65/esday-demo-node/issues"
+  },
+  "homepage": "https://github.com/BePo65/esday-demo-node#readme",
+  "dependencies": {
+    "esday": "^0.5.0"
+  }
+}
