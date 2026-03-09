@@ -1,6 +1,6 @@
 {
   "name": "esday-demo-node",
-  "version": "0.5.0",
+  "version": "0.6.3",
   "description": "Minimal demo for using the esday library in a simple node script",
   "type": "module",
   "main": "index.js",
@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/BePo65/esday-demo-node#readme",
   "dependencies": {
-    "esday": "^0.5.0"
+    "esday": "^0.6.3"
   }
 }
