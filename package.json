@@ -4,7 +4,9 @@
   "description": "Minimal demo for using the esday library in a simple node script",
   "type": "module",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "node ./index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BePo65/esday-demo-node.git"
